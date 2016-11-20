@@ -5,13 +5,18 @@ Visitors can review and watch the trailers in a web page.
 **_This is the first project submission for Udacity Full Stack Web Developer Nanodegree Program._**
 
 ## Installation
-You need [Python](https://www.python.org/) and a web browser to run this project.
+You need a web browser to run this project.
+You need [Python](https://www.python.org/) to change this project.
 
 ## Usage
 To run and navigate thru the web page I've created:
 - save the files into a local directory
+- click the `fresh_tomatoes.html` to open the web page
+
+If you want to use Python to run this project:
 - open the `entertainment_center.py` file
 - click on _Run -> Run Module_
+
 The web page will open in your default browser and you can see my top 6 movies! :-)
 
 ## Files
