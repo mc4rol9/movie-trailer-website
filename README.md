@@ -23,6 +23,7 @@ The web page will open on your default browser and you will be able to see my to
 
 ## Files
 Understanding the files:
+
 `entertainment_center.py`
 This is the file that creates the objects movie, the list of movies and also calls the function from fresh_tomatoes script that runs the
 web page.
